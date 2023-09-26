@@ -1,3 +1,5 @@
+//1. Sort Numbers in Descending order
+
 function sortNumbersDescending(n1, n2, n3) {
   if (n1 >= n2 && n1 >= n3) {
     console.log(n1);
