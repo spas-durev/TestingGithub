@@ -1,5 +1,5 @@
 let dog {
-    name: 'Oliver',
+    name: 'Bucks',
     age: 6,
       }
     
